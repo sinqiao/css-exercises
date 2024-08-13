@@ -4,10 +4,16 @@
 }
 
 #element2 {
-    color: rgb(0, 0, 255);
+    color: #0000ff;
     font-size: 36px;
 }
 
 .odd.three {
     font-size: 24px;
+}
+
+#element4 {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
 }
